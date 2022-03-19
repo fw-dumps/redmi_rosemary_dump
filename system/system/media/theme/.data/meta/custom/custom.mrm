@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "rosemarydefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
